@@ -1,5 +1,5 @@
 # Machine learning
-Fork this repository before you start reading this.
+Star this repository before you start reading this.
 
 Reading flow
 1. Start with Gradient Descent & ML terminology
