@@ -13,6 +13,7 @@ Anyone can contribute to this repository. But here are few things to understand 
 1. Content must be useful and human-understandable.
 2. One should be liable for their own content/commits.
 3. Misleading / spam content is strictly prohibited. <br>
+
 More details of copyrights, code of conduct etc. will be detailed here. (Path: Docs/contributing.md)
 
 Note: It would be great if you give us a high-five by clicking on *star*.
